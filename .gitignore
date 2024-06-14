@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+!/src/node_modules
+
+.idea/
+dist
+.DS_Store
+.env
+
+#misc
+!/src/app.ts
